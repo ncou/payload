@@ -16,6 +16,8 @@ Parses the body of the request if it's not parsed and the method is POST, PUT or
 
 Failure to parse the body will result in a `Middlewares\Utils\HttpErrorException` being thrown. See [middlewares/utils](https://github.com/middlewares/utils#httperrorexception) for additional details.
 
+<span style=“color:red;”> TEST </span>
+
 ## Requirements
 
 * PHP >= 7.0
