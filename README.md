@@ -19,11 +19,10 @@ Failure to parse the body will result in a `Middlewares\Utils\HttpErrorException
 <h2>
 
 ```diff
-- red
-+ green
-! orange
-# gray
-TEST red
+- rred
++ rgreen
+! rorange
+# rgray
 ```
 </h2>
 
